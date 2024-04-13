@@ -35,7 +35,7 @@ address: str = 'String'
 address = 32 # Este valor prevalece
 print(type(address))
 
-# Otros tipos de variables
+# Otros tipos de variables 
 print(type(3.14))                                   # float
 print(type(1 + 1j))                                 # complex
 print(type(True))                                   # boolean
